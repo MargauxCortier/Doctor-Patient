@@ -2,9 +2,14 @@
 
 Il y a une DB existante dans le dossier /db pour faciliter les corrections. Si vous souhaitez tester les rails db:migrate & rails db:seed, veuillez supprimer la DB.
 
+## Instalation 
+```
+$ cd Application
+$ bundle install
+```
+
 ## :v: Tables Creation :v: :
 
-```
 1. Specialty
 	 - id(of course)
 	 - name
@@ -32,7 +37,7 @@ Il y a une DB existante dans le dossier /db pour faciliter les corrections. Si v
 	 - doctor_id
 	 - patient_id
 	 - city_id
-```
+
 
 ## Fucking_Lovely_Team :frog: :
 
