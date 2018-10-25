@@ -1,5 +1,7 @@
 # Doctor-Patient
 
+Il y a une DB existante dans le dossier /db pour faciliter les corrections. Si vous souhaitez tester les rails db:migrate & rails db:seed, veuillez supprimer la DB.
+
 ## :v: Tables Creation :v: :
 
 ```
